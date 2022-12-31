@@ -16,6 +16,11 @@
 - 서비스 목표(목적)
     - 반려 동물을 키우는 과정에서 만나는 어려움들을 사용자들이 서로 소통하고 , 나타내는 증상을 이미지로 검색하여 예상 병명을 빠르게 파악할 수 있는 서비스를 제공하며, 커뮤니티 게시판과 실시간 채팅 기능으로 반려 동물 케어 중 발생하는 문제 해결 방법과 일상 등을 공유하여 유저 간의 원활한 피드백 및 소통을 목적으로 하는 서비스입니다.
 
+# 🎁 기술 스택
+- Programming : <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"> <img src="https://img.shields.io/badge/HTML-blueviolet?style=for-the-badge&logo=HTML&logoColor=white"> <img src="https://img.shields.io/badge/CSS-sucess?style=for-the-badge&logo=CSS&logoColor=white">
+- Framework : <img src="https://img.shields.io/badge/DjangoRestFramework-092E20?style=for-the-badge&logo=Django&logoColor=white"> 
+- Library : <img src="https://img.shields.io/badge/Pytorch-F7931E?style=for-the-badge&logo=Pytorch&logoColor=white">
+
 ---
 
 # 팀원 소개
